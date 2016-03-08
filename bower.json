@@ -1,0 +1,24 @@
+{
+  "name": "asa_plunk",
+  "description": "Angular Bootstrap app",
+  "main": "index.js",
+  "authors": [
+    "ML"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.2.18"
+  }
+}
