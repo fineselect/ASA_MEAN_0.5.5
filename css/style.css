@@ -4,31 +4,31 @@
     Type: Template / Partial
 */
 
-input[type="text"]
-{
-    font-size:20px;
+input[type="text"] {
+  font-size: 20px;
 }
 
-.show-on-hover:hover > ul.dropdown-menu {
-    display: block;    
+.show-on-hover:hover,
+ul, .dropdown-menu {
+  display: block;
 }
 
 .dropdown-item:hover {
-	color: #FFF;
-	font-weight: bold;
-	background: #1a1a1a;
-	padding: 7px;
-	font-size: 16px;
+  color: #FFF;
+  font-weight: bold;
+  background: #1a1a1a;
+  padding: 7px;
+  font-size: 16px;
 }
 
 .dropdown-item {
-	font-size: 14px;
+  font-size: 14px;
 }
 
 .jumbotron {
-	margin-top: 20px;
+  margin-top: 20px;
 }
 
 .btn2 {
-	margin-left: 10px;
+  margin-left: 10px;
 }
